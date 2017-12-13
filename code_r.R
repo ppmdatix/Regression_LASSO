@@ -1,4 +1,4 @@
-setwd("~/Desktop/M2 DS/reg_lin/TP_gabi")
+setwd("~/Desktop/M2 DS/reg_lin/Regression_LASSO")
 rm (list=ls())
 exit <- function() {
   .Internal(.invokeRestart(list(NULL, NULL), NULL))
